@@ -1,0 +1,4 @@
+# the default boost applied to user without any elytra nerf
+boost: 1.5
+
+# permission to the user will need to be given for any modification example: 'elytranerf.2.5' which will give the user 2.5 speed
